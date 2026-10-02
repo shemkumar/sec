@@ -1,0 +1,4 @@
+postgres://scanner_user:SyntheticDBPass_8x2Q@localhost:5432/scanner
+mongodb://scanner:SyntheticMongoPass_4z9@localhost:27017/scanner
+redis://:SyntheticRedisPass_91Kx@localhost:6379/0
+mysql://scanner:SyntheticMySQLPass_7q2@localhost:3306/scanner

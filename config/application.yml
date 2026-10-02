@@ -1,0 +1,11 @@
+server:
+  port: 8080
+database:
+  username: test_admin
+  password: "Synthetic-Only-Pass-7xQ2!mN9"
+  url: "jdbc:postgresql://localhost:5432/scanner_test"
+cloud:
+  access_key: "AKIA7TESTFAKE123456"
+  secret_key: "7Qv3mN8xR2kL5pZ9cT1wY6uI4oP8sD2fG7hJ3kM9"
+api:
+  bearer_token: "Bearer SYNTHETIC_BEARER_TOKEN_7a9f2c4d8e1b"

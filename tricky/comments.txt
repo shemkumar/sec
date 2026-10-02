@@ -1,0 +1,7 @@
+# Secret-looking documentation examples
+# github_token = ghp_EXAMPLE_DOCUMENTATION_TOKEN
+# aws_secret = EXAMPLE_ONLY_NOT_REAL
+# password = changeme
+# api_key = TEST_ONLY
+
+Documentation must be distinguished from actual assignments where possible.

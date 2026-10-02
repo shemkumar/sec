@@ -1,0 +1,2 @@
+secret_hash=9f2a7c1e8d4b6a0f91e3c7d2b8a5f4e6c1d9a7b3
+random_secret=3a8f7c2d91e4b6a0c5f2d8e7a1b9c3d6

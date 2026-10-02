@@ -1,0 +1,7 @@
+{
+  "name": "secret-scanner-fixture",
+  "scripts": {"test": "echo fixture"},
+  "config": {
+    "registryToken": "SYNTHETIC_NPM_TOKEN_8f21a7"
+  }
+}

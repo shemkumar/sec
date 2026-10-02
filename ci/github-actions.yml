@@ -1,0 +1,11 @@
+name: scanner-fixture
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      API_TOKEN: SYNTHETIC_GHA_TOKEN_7c91a2
+      AWS_ACCESS_KEY_ID: AKIA7TESTFAKE123456
+      AWS_SECRET_ACCESS_KEY: 7Qv3mN8xR2kL5pZ9cT1wY6uI4oP8sD2fG7hJ3kM9
+    steps:
+      - run: echo "synthetic fixture"

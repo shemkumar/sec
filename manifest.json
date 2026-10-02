@@ -1,0 +1,19 @@
+{
+  "purpose": "secret-scanner benchmark fixture",
+  "all_values_synthetic": true,
+  "categories": [
+    "cloud",
+    "source-control",
+    "messaging",
+    "payment",
+    "jwt",
+    "oauth",
+    "database",
+    "private-key",
+    "high-entropy",
+    "encoded",
+    "ci-cd",
+    "false-positive"
+  ],
+  "expected_behavior": "Detect synthetic secret candidates while avoiding obvious placeholders/documentation examples."
+}

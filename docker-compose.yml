@@ -1,0 +1,12 @@
+services:
+  app:
+    image: example/scanner-fixture:latest
+    environment:
+      AWS_ACCESS_KEY_ID: AKIA7TESTFAKE123456
+      AWS_SECRET_ACCESS_KEY: 7Qv3mN8xR2kL5pZ9cT1wY6uI4oP8sD2fG7hJ3kM9
+      API_TOKEN: SYNTHETIC_DOCKER_TOKEN_8e2a91
+      DATABASE_URL: postgresql://fixture:syntheticPass@db:5432/app
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_PASSWORD: SyntheticDbPassword_4Qx9
